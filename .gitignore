@@ -1,5 +1,6 @@
-cycle-gan/summer2winter_yosemite/
-cycle-gan/summer2winter-yosemite.zip
-cycle-gan/samples_cyclegan/
-cycle-gan/__pycache__/
-cycle-gan/__MACOSX/
+summer2winter_yosemite/
+summer2winter-yosemite.zip
+samples_cyclegan/
+__pycache__/
+__MACOSX/
+.ipynb_checkpoints/
