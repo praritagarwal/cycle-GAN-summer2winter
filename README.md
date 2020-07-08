@@ -58,10 +58,10 @@ And following is a sample of Yosemite's winter images used for training:
 Following are sample of summer to winter transformations as produced by the cycle-GAN during various stages of its training
 
 ### After 100 epochs:
-![100e](samples_cyclegan/sample-000100-X-Y.png)
+![100e](notebook_images/sample-000100-X-Y.png)
 
-### After 100 epochs:
-![1000e](samples_cyclegan/sample-000100-X-Y.png)
+### After 1000 epochs:
+![1000e](notebook_images/sample-000100-X-Y.png)
 
 ### After 6000 epochs:
-![6000e](samples_cyclegan/sample-006000-X-Y.png)
+![6000e](notebook_images/sample-006000-X-Y.png)
