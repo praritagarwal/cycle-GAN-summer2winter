@@ -61,7 +61,7 @@ Following are sample of summer to winter transformations as produced by the cycl
 ![100e](samples_cyclegan/sample-000100-X-Y.png)
 
 ### After 100 epochs:
-![100e](samples_cyclegan/sample-000100-X-Y.png)
+![1000e](samples_cyclegan/sample-000100-X-Y.png)
 
 ### After 6000 epochs:
-![100e](samples_cyclegan/sample-006000-X-Y.png)
+![6000e](samples_cyclegan/sample-006000-X-Y.png)
